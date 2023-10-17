@@ -4,12 +4,18 @@
   
     
     <entry>
-      <title>page</title>
-      <link href="/2023/10/17/page/"/>
-      <url>/2023/10/17/page/</url>
+      <title>Hello World,hello everyone</title>
+      <link href="/2023/10/17/hello-world/"/>
+      <url>/2023/10/17/hello-world/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>欢迎来到我的个人博客，本博旨在发表个人生活经历，有趣瞬间，心得感悟，学习经验。欢迎大家友好交流，批评指正。</p><p>Welcome to my personal blog! This blog is dedicated to sharing personal life experiences, interesting moments, reflections, and learning experiences. You are welcome to engage in friendly discussions and provide constructive criticism.</p><h2 id="近期计划"><a href="#近期计划" class="headerlink" title="近期计划"></a>近期计划</h2><p>如你所见，本博还在开发建设当中。当前明确建设目的：建成博主本人个人主页，兼职个人博客。因此首先编写如下内容：</p><h3 id="音乐作品展示"><a href="#音乐作品展示" class="headerlink" title="音乐作品展示"></a>音乐作品展示</h3><p>本人曾经在中央财经大学校合唱团担任钢琴伴奏，期间为此团撰写过一些原创作品，现将这些作品作为个人爱好展示在此：</p><h3 id="锻炼，生活打卡"><a href="#锻炼，生活打卡" class="headerlink" title="锻炼，生活打卡"></a>锻炼，生活打卡</h3><p>详细内容请见</p><h3 id="本博其余内容，正在建设中……"><a href="#本博其余内容，正在建设中……" class="headerlink" title="本博其余内容，正在建设中……"></a>本博其余内容，正在建设中……</h3>]]></content>
       
+      
+      <categories>
+          
+          <category> 综合 </category>
+          
+      </categories>
       
       
     </entry>
@@ -17,11 +23,11 @@
     
     
     <entry>
-      <title>Hello World,hello everyone</title>
-      <link href="/2023/10/17/hello-world/"/>
-      <url>/2023/10/17/hello-world/</url>
+      <title>page</title>
+      <link href="/2023/10/17/page/"/>
+      <url>/2023/10/17/page/</url>
       
-        <content type="html"><![CDATA[<p>欢迎来到我的个人博客，本博旨在发表个人生活经历，有趣瞬间，心得感悟，学习经验。欢迎大家友好交流，批评指正。</p><p>Welcome to my personal blog! This blog is dedicated to sharing personal life experiences, interesting moments, reflections, and learning experiences. You are welcome to engage in friendly discussions and provide constructive criticism.</p><h2 id="近期计划"><a href="#近期计划" class="headerlink" title="近期计划"></a>近期计划</h2><p>如你所见，本博还在开发建设当中。当前明确建设目的：建成博主本人个人主页，兼职个人博客。当下优先作为一个学习，锻炼打卡的博客，因此首先编写如下内容：</p><h3 id="学习打卡"><a href="#学习打卡" class="headerlink" title="学习打卡"></a>学习打卡</h3><p>详细内容请见</p><h3 id="锻炼打卡"><a href="#锻炼打卡" class="headerlink" title="锻炼打卡"></a>锻炼打卡</h3><p>详细内容请见</p><h3 id="本博其余内容，正在建设中……"><a href="#本博其余内容，正在建设中……" class="headerlink" title="本博其余内容，正在建设中……"></a>本博其余内容，正在建设中……</h3>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
       
       
