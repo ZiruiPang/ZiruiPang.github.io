@@ -12,10 +12,12 @@ Pang Zirui is a current student at the University of Illinois Urbana-Champaign, 
 Education
 ======
 **Central University of Finance and Economics (CUFE) 2019-2023**
+
 **University of Illinois Urbana-Champaign (UIUC) 2024-present**
 
 Work Experience
 ======
 **Assistant Software Development Engineer, Odeon Big Data Platform R&D Department, AI Engineering Institute, iFLYTEK  2023.2-2023.4**
+
 **Assistant Researcher, IRisk Lab, University of Illinois Urbana-Champaign (UIUC)  2024-present**
 
