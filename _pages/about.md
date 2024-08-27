@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Predictive Analytics and Risk Management, University of Illinois Urbana-Champaign (UIUC), 2024-present
+  
 * B.S. in Data Science and Big Data Technology, Central University of Finance and Economics (CUFE), 2019-2023
 
 Work Experience
@@ -19,8 +20,10 @@ Work Experience
 * 2024.8-present: Assistant Researcher
   * Luyan Project, IRisk Lab, University of Illinois Urbana-Champaign
 
+
 * 2023.2-2023.4 : Assistant Software Development Engineer
   * Odeon Big Data Platform R&D Department, AI Engineering Institute, iFLYTEK
+
 
 Research Experience
 ======
@@ -29,10 +32,12 @@ Research Experience
   * Data Processing Project: By comparing the performance of models after processing data with different data preprocessing methods, we validated the impact of preprocessing on model effectiveness
   * superviser: Assistant Professor Frank Quan
 
+
 * 2024.7-2024.8 : Research Assistant
   * Central University of Finance and Economics (School of Statistics and Mathematics)
   * NQI Project: Assisted the team in completing the data mining portion of the NQI project. Utilized OCR technology and regular expressions to convert PDF files into structured data for research purposes.
   * superviser: Assistant Professor Yushan Xue
+
 
 * 2021.7-2021.11: Research Assistant
   * Central University of Finance and Economics (School of Statistics and Mathematics)
