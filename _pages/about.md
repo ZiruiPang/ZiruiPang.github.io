@@ -17,8 +17,32 @@ Education
 Work Experience
 ======
 * 2024.8-present: Assistant Researcher
-  * IRisk Lab, University of Illinois Urbana-Champaign (UIUC)
+  * Luyan Project, IRisk Lab, University of Illinois Urbana-Champaign
 
 * 2023.2-2023.4 : Assistant Software Development Engineer
   * Odeon Big Data Platform R&D Department, AI Engineering Institute, iFLYTEK
 
+Research Experience
+======
+* 2024.8-present: Research Assistant
+  * University of Illinois Urbana-Champaign (College of Liberal Arts & Sciences)
+  * Data Processing Project: By comparing the performance of models after processing data with different data preprocessing methods, we validated the impact of preprocessing on model effectiveness
+  * superviser: Assistant Professor Frank Quan
+
+* 2024.7-2024.8 : Research Assistant
+  * Central University of Finance and Economics (School of Statistics and Mathematics)
+  * NQI Project: Assisted the team in completing the data mining portion of the NQI project. Utilized OCR technology and regular expressions to convert PDF files into structured data for research purposes.
+  * superviser: Assistant Professor Yushan Xue
+
+* 2022-2023: Research Assistant
+  * Tsinghua University (Institute of Nuclear Energy and New Energy Technology)
+  * Summer Short-term Research Project: Connected experimental results and data analysis to help the team understand experimental results and data in ways such as data visualization
+  * superviser: Professor Zongqiang Mao
+
+* 2021.7-2021.11: Research Assistant
+  * Central University of Finance and Economics (School of Statistics and Mathematics)
+  * Designed Python-based web crawler program, scraping government bidding documents ranging from 1991
+to 2021 from www.ccgp.gov.cn (500g in all)
+  * Cleaned and organized data achieved, forming a dataset with 170 dimensions to meet the requirements
+  * superviser: Professor Fuguo Cao
+    
