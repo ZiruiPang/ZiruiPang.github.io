@@ -34,11 +34,6 @@ Research Experience
   * NQI Project: Assisted the team in completing the data mining portion of the NQI project. Utilized OCR technology and regular expressions to convert PDF files into structured data for research purposes.
   * superviser: Assistant Professor Yushan Xue
 
-* 2022-2023: Research Assistant
-  * Tsinghua University (Institute of Nuclear Energy and New Energy Technology)
-  * Summer Short-term Research Project: Connected experimental results and data analysis to help the team understand experimental results and data in ways such as data visualization
-  * superviser: Professor Zongqiang Mao
-
 * 2021.7-2021.11: Research Assistant
   * Central University of Finance and Economics (School of Statistics and Mathematics)
   * Designed Python-based web crawler program, scraping government bidding documents ranging from 1991
