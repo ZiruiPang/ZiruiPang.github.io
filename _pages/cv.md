@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 ======
-[Zirui Pang's CV](../assets/CV_2024)
+[Zirui Pang's CV](../assets/CV_2024.pdf)
 
