@@ -10,8 +10,5 @@ redirect_from:
 {% include base_path %}
 
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+[Zirui Pang's CV](../assets/CV_2024)
 
