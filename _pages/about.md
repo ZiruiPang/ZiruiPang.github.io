@@ -17,17 +17,19 @@ Education
 
 Work Experience
 ======
-* 2024.8-present: Assistant Researcher
-  * Luyan Project, IRisk Lab, University of Illinois Urbana-Champaign
-
-
 * 2023.2-2023.4 : Assistant Software Development Engineer
   * Odeon Big Data Platform R&D Department, AI Engineering Institute, iFLYTEK
 
 
 Research Experience
 ======
-* 2024.8-present: Research Assistant
+* 2024.12-present: Research Assistant
+  * The Hong Kong University of Science and Technology (Guangzhou)
+    
+* 2024.8-2024.12: Assistant Researcher
+  * Luyan Project, IRisk Lab, University of Illinois Urbana-Champaign
+    
+* 2024.8-2024.10: Research Assistant
   * University of Illinois Urbana-Champaign (College of Liberal Arts & Sciences)
   * Data Processing Project: By comparing the performance of models after processing data with different data preprocessing methods, we validated the impact of preprocessing on model effectiveness
   * superviser: Assistant Professor Frank Quan
