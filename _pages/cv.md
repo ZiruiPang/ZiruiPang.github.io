@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Zirui Pang's CV](../assets/CV_2024.pdf)
+[Zirui Pang's CV](../assets/CV_2025_01.pdf)
 
