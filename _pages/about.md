@@ -26,7 +26,7 @@ My current research interests revolve around:
 
 Beyond these research endeavors, I am also exploring the potential of integrating LLM technology with the financial sector.
 
-During my studies at UIUC, I was a researcher at the <a href='https://asrm.illinois.edu/illinois-risk-lab/illinois-risk-lab-home'Irisk Lab</a>, where I participated in and led a project that used machine learning models to help businesses assess risks.
+During my studies at UIUC, I was a researcher at the <a href='https://asrm.illinois.edu/illinois-risk-lab/illinois-risk-lab-home'>Irisk Lab</a>, where I participated in and led a project that used machine learning models to help businesses assess risks.
 
 I have a deep passion for music and enjoy the pleasure it brings me in my leisure time. I previously had a long-term collaboration with the <a href='https://space.bilibili.com/1645566770?spm_id_from=333.337.0.0'>Choir of Central University of Finance and Economics</a>.
 
