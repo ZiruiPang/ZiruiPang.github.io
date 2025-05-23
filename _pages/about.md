@@ -24,6 +24,9 @@ My current research interests revolve around:
 1. **Noisy Labels**: Investigating methods to identify noisy labels (incorrect or missing labels) in various datasets (images, text, audio).  
 2. **LLM Unlearning**: Exploring techniques to make large language models "forget" certain learned information.
 
+Beyond these research endeavors, I am also exploring the potential of integrating LLM technology with the financial sector.
+
+During my studies at UIUC, I was a researcher at the Irisk Lab, where I participated in and led a project that used machine learning models to help businesses assess risks.
 
 ;# 🔥 News
 ;- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
