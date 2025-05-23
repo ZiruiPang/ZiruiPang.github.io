@@ -19,7 +19,10 @@ redirect_from:
 
 I am currently a research assistant at the Hong Kong University of Science and Technology (Guangzhou) campus (HKUST-GZ), under the supervision of <a href='https://sites.google.com/ucsc.edu/jiahengwei'>Jiaheng Wei (魏嘉珩)</span></strong></a>. At the same time, I am a master's student at UIUC, currently pursuing my Master of Science degree while doing an internship. My graduate coursework focuses on Data Science and Finance.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My current research interests revolve around:  
+
+1. **Noisy Labels**: Investigating methods to identify noisy labels (incorrect or missing labels) in various datasets (images, text, audio).  
+2. **LLM Unlearning**: Exploring techniques to make large language models "forget" certain learned information.
 
 
 # 🔥 News
