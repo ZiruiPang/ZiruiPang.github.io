@@ -28,7 +28,7 @@ Beyond these research endeavors, I am also exploring the potential of integratin
 
 During my studies at UIUC, I was a researcher at the Irisk Lab, where I participated in and led a project that used machine learning models to help businesses assess risks.
 
-I have a deep passion for music and enjoy the pleasure it brings me in my leisure time. I previously had a long-term collaboration with the <a href='<a href='https://sites.google.com/ucsc.edu/jiahengwei'>'>Choir of Central University of Finance and Economics</a>.
+I have a deep passion for music and enjoy the pleasure it brings me in my leisure time. I previously had a long-term collaboration with the <a href='https://sites.google.com/ucsc.edu/jiahengwei'>'>Choir of Central University of Finance and Economics</a>.
 
 {% comment %} 
 # 🔥 News
@@ -65,3 +65,6 @@ I have a deep passion for music and enjoy the pleasure it brings me in my leisur
 
 # 💻 Internships
 - *2022.02 - 2022.04*, [Iflytek](https://www.iflytek.com/cn/), China.
+
+# 🎵 Music
+
