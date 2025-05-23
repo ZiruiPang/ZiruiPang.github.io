@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zirui Pang (庞梓瑞)"
   avatar           : "images/avatar.jpg"
-  bio              : "RA at HKUST-GZ; Student at UIUC"
+  bio              : # "RA at HKUST-GZ; Student at UIUC"
   location         : "Guangdong, China"
   employer         :
   pubmed           : 
