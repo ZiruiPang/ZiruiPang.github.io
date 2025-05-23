@@ -28,6 +28,7 @@ Beyond these research endeavors, I am also exploring the potential of integratin
 
 During my studies at UIUC, I was a researcher at the Irisk Lab, where I participated in and led a project that used machine learning models to help businesses assess risks.
 
+{% comment %} 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -51,6 +52,7 @@ During my studies at UIUC, I was a researcher at the Irisk Lab, where I particip
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+{% endcomment %}
 
 # 📖 Educations
 - *2024.08 - 2025.12 (now)*, Master, University of Illinois Urbana-Champaign, IL, USA.
