@@ -74,9 +74,11 @@ During my undergraduate studies, I maintained a long-term collaboration with the
 - <a href='https://www.bilibili.com/video/BV1Aa411Y7c5/?spm_id_from=333.1387.homepage.video_card.click&vd_source=6c3f171bdad828340341bcea6c39a5cf'>*Ruyuan·Dislocated Space-Time (如愿·错位时空)*</a>, selected Work of 6th China College Students Network Culture Festival.
 
 
-<div style="width: 250px; margin: 2em auto;">
-  <p align="center" style="font-weight: bold;">🌍 Visitor Map</p>
-  <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=500&t=tt&d=4BolBiu1Bhj-fFYOcUr7N2TCnPlf0mhukLwA9Bwxo4g'></script>
+<div style="width: 500px; margin: 2em auto; text-align: center;">
+  <p style="font-weight: bold;">🌍 Visitor Map</p>
+  <script type='text/javascript' id='mapmyvisitors'
+          src='https://mapmyvisitors.com/map.js?cl=ffffff&w=500&t=tt&d=4BolBiu1Bhj-fFYOcUr7N2TCnPlf0mhukLwA9Bwxo4g'></script>
 </div>
+
 
 
