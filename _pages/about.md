@@ -75,5 +75,3 @@ During my undergraduate studies, I maintained a long-term collaboration with the
 
 
 
-
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=1Eduh9kom-NdDrz5mEY12mK3Urzmk3YOVCg5_yIFGts"></script>
