@@ -76,7 +76,7 @@ During my undergraduate studies, I maintained a long-term collaboration with the
 
 <div style="width: 250px; margin: 2em auto;">
   <p align="center" style="font-weight: bold;">🌍 Visitor Map</p>
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=4BolBiu1Bhj-fFYOcUr7N2TCnPlf0mhukLwA9Bwxo4g&cl=ffffff&w=a"></script>
+  <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=500&t=tt&d=4BolBiu1Bhj-fFYOcUr7N2TCnPlf0mhukLwA9Bwxo4g'></script>
 </div>
 
 
