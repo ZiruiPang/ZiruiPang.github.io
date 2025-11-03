@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a research assistant at the Hong Kong University of Science and Technology (Guangzhou) campus (HKUST-GZ), under the supervision of <a href='https://sites.google.com/ucsc.edu/jiahengwei'>Jiaheng Wei (魏嘉珩)</a>. At the same time, I am a master's student at UIUC, currently pursuing my Master of Science degree while doing an internship. My graduate coursework focuses on Data Science and Finance.
+I am currently a research assistant at the Hong Kong University of Science and Technology (Guangzhou) campus (HKUST-GZ), under the supervision of <a href='https://sites.google.com/ucsc.edu/jiahengwei'>Jiaheng Wei (魏嘉珩)</a> and <a href='https://zixinzh.github.io/homepage'>Zixin Zhong (钟梓昕)</a> . At the same time, I am a master's student at UIUC, currently pursuing my Master of Science degree while doing an internship. My graduate coursework focuses on Data Science and Finance.
 
 My current research interests revolve around:  
 
