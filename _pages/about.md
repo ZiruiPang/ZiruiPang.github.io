@@ -19,22 +19,11 @@ redirect_from:
 
 {% include_relative include/intro.md %}
 
-{% comment %} 
- 
-{% include_relative include/news.md %}
-
 {% include_relative include/pub.md %}
-
-{% include_relative include/honors.md %}
 
 {% include_relative include/edu.md %}
 
-  
-{% comment %} 
-{% include_relative include/talks.md %}
-{% endcomment %}
 {% include_relative include/inter.md %}
-
 
 {% include_relative include/mus.md %}
 
