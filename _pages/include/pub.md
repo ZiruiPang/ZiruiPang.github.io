@@ -19,7 +19,9 @@
 [OFFSIDE: Benchmarking Unlearning Misinformation in Multimodal Large Language Models](https://arxiv.org/abs/2510.22535)
 
 Hao Zheng, **Zirui Pang**, Ling li, Zhijie Deng, Yuhan Pu, Zhaowei Zhu, Xiaobo Xia, Jiaheng Wei
+
 [**Project**](https://github.com/zh121800/OFFSIDE) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 - We present OFFSIDE, a benchmark for multimodal unlearning based on football transfer rumors.
 - It provides real-world, manually curated data and four evaluation settings to test forgetting, utility, and robustness.
 - Our results reveal that current methods fail to unlearn visual rumors and are vulnerable to recovery and prompt attacks.
