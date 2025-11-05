@@ -29,7 +29,7 @@ redirect_from:
 
   
 {% comment %} 
-# 💬 Invited Talks
+
 {% endcomment %}
 
 # 💻 Internships
