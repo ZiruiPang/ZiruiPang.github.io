@@ -29,12 +29,9 @@ redirect_from:
 
   
 {% comment %} 
-
+{% include_relative include/talks.md %}
 {% endcomment %}
 
-# 💻 Internships
-- *2022.02 - 2022.04*, Assistant Software Development Engineer, [Iflytek](https://www.iflytek.com/cn/), China.
-- *2024.12 - present*, Research Assistant, [HKUST-GZ](https://www.hkust-gz.edu.cn/), China.
 
 # 🎵 Music
 During my undergraduate studies, I maintained a long-term collaboration with the Central University of Finance and Economics Choir. Serving as both the choir's piano accompanist and a tenor vocalist, I also composed several musical works.
