@@ -23,6 +23,8 @@ My current research interests revolve around:
 
 1. **Noisy Labels**: Investigating methods to identify noisy labels (incorrect or missing labels) in various datasets (images, text, audio).  
 2. **LLM Unlearning**: Exploring techniques to make large language models "forget" certain learned information.
+3. **Multi-Agent Reinforcement Learning:** I explore new approaches in MARL, particularly its applications in robot pathfinding problems.
+
 
 Beyond these research endeavors, I am also exploring the potential of integrating LLM technology with the financial sector.
 
