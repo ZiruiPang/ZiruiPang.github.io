@@ -1,4 +1,4 @@
-I am currently a research assistant at the Hong Kong University of Science and Technology (Guangzhou) campus (HKUST-GZ), under the supervision of <a href='https://sites.google.com/ucsc.edu/jiahengwei'>Jiaheng Wei (魏嘉珩)</a> and <a href='https://zixinzh.github.io/homepage'>Zixin Zhong (钟梓昕)</a>. I am also a first-year PhD student (from Spring 2026) at HKUST-GZ, within the DSA Thrust, Info Hub.
+I am currently a first-year PhD student (from Spring 2026) at the Hong Kong University of Science and Technology (Guangzhou) (HKUST-GZ), within the DSA Thrust, Info Hub. I conduct my research under the supervision of <a href='https://zixinzh.github.io/homepage'>Zixin Zhong (钟梓昕)</a> and <a href='https://sites.google.com/ucsc.edu/jiahengwei'>Jiaheng Wei (魏嘉珩)</a>.
 
 My current research interests revolve around:
 
