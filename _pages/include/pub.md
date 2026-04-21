@@ -13,7 +13,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/offside_pipeline_v6.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 26 finding</div><img src='images/offside_pipeline_v6.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OFFSIDE: Benchmarking Unlearning Misinformation in Multimodal Large Language Models](https://arxiv.org/abs/2510.22535)
