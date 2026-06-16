@@ -41,6 +41,19 @@ Zhijie Deng, Chris Yuhao Liu, **Zirui Pang**, Xinlei He, Lei Feng, Qi Xuan, Zhao
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/rerule_pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Replay What Matters: Off-Policy Replay for Efficient LLM Reinforcement Unlearning](https://arxiv.org/abs/2606.15333)
+
+**Zirui Pang**, Chenlong Zhang, Haosheng Tan, Zhuoran Jin, Jiaheng Wei, Zixin Zhong
+
+- We propose ReRULE, an off-policy replay enhancement for LLM reinforcement unlearning.
+- It stores low-reward hard cases in a replay buffer and reuses them via importance-sampled off-policy updates.
+- ReRULE improves unlearning efficiency and retain quality with only modest additional training cost.
+</div>
+</div>
+
 
 ## 🏞️ Label Noise
 
