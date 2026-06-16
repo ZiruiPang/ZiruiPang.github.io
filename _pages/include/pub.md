@@ -60,12 +60,12 @@ Zhijie Deng, Chris Yuhao Liu, **Zirui Pang**, Xinlei He, Lei Feng, Qi Xuan, Zhao
 
 [CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator](https://arxiv.org/abs/2604.03156)
 
-**Zirui Pang**, Haosheng Tan, Yuhan Pu, Zhijie Deng, Zhouan Shen, Keyu Hu, Jiaheng Wei
+Yuhan Pu, Hao Zheng, Ziqian Mo, **Zirui Pang**, Yang Zhang, Tianyi Fan, Shuhong Wu, Jiaheng Wei
 
 
-- We propose REVEAL, a framework that uses vision-language models to find and fix missing and noisy labels in image classification benchmarks.
-- It ensembles multiple VLMs and human feedback to renovate test sets with soft, accurate labels.
-- REVEAL greatly improves dataset quality and aligns closely with human judgments.
+- We propose CAMEO, a quality-aware multi-agent framework for conditional image editing.
+- It decomposes editing into planning, reference grounding, generation, evaluation, and iterative refinement.
+- CAMEO improves robustness, controllability, and structural consistency over single-step editing methods.
 </div>
 </div>
 
