@@ -54,6 +54,20 @@ Zhijie Deng, Chris Yuhao Liu, **Zirui Pang**, Xinlei He, Lei Feng, Qi Xuan, Zhao
 </div>
 </div>
 
+## 👥 Multi Agents
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/cameo_pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator](https://arxiv.org/abs/2604.03156)
+
+**Zirui Pang**, Haosheng Tan, Yuhan Pu, Zhijie Deng, Zhouan Shen, Keyu Hu, Jiaheng Wei
+
+
+- We propose REVEAL, a framework that uses vision-language models to find and fix missing and noisy labels in image classification benchmarks.
+- It ensembles multiple VLMs and human feedback to renovate test sets with soft, accurate labels.
+- REVEAL greatly improves dataset quality and aligns closely with human judgments.
+</div>
+</div>
 
 ## 🏞️ Label Noise
 
