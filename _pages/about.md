@@ -29,8 +29,7 @@ redirect_from:
 
 <div style="width: 500px; margin: 2em auto; text-align: center;">
   <p style="font-weight: bold;">🌍 Visitor Map</p>
-  <script type='text/javascript' id='mapmyvisitors'
-          src='https://mapmyvisitors.com/map.js?cl=ffffff&w=500&t=tt&d=4BolBiu1Bhj-fFYOcUr7N2TCnPlf0mhukLwA9Bwxo4g'></script>
+  <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=_7KN5zjli_VTVMVpRn6mCeZfLdliKAII1NLDGBt6ues"></script>
 </div>
 
 
