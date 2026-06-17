@@ -27,7 +27,7 @@ redirect_from:
 
 {% include_relative include/mus.md %}
 
-<div style="width: 500px; margin: 2em auto; text-align: center;">
+<div style="width: 300px; margin: 2em auto; text-align: center;">
   <p style="font-weight: bold;">🌍 Visitor Map</p>
   <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=_7KN5zjli_VTVMVpRn6mCeZfLdliKAII1NLDGBt6ues"></script>
 </div>
