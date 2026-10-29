@@ -25,6 +25,17 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src="{{ '/images/cameo_pipeline.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator](https://arxiv.org/abs/2604.03156)
+
+Yuhan Pu, Hao Zheng, Ziqian Mo, **Zirui Pang**, Hill Zhang, Tianyi Fan, Shuhong Wu, Jiaheng Wei
+
+**TL;DR:** CAMEO is a structured multi-agent framework that reformulates conditional image editing as a quality-aware, feedback-driven process, achieving 20% higher win rate on average over state-of-the-art models.
+</div>
+</div>
+
 ## 2025
 {: .publication-year }
 
