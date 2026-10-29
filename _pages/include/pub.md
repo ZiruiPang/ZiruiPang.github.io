@@ -1,19 +1,45 @@
-# 📝 Publications 
-## 🤖 LLM Unlearning
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/sga_pipeline.png' alt="sym" width="100%"></div></div>
+# Publications
+{: .section-title }
+
+<div class="publication-search" hidden>
+  <label for="publication-query">Search publications</label>
+  <div class="publication-search-controls">
+    <input id="publication-query" type="search" placeholder="Search by title, author, year, or keyword…" autocomplete="off" aria-controls="publication-results" aria-describedby="publication-search-status">
+    <button id="publication-search-clear" type="button" hidden>Clear</button>
+  </div>
+  <p id="publication-search-status" role="status" aria-live="polite" aria-atomic="true"></p>
+</div>
+<p id="publication-search-empty" hidden>No matching publications. Try another keyword.</p>
+
+## 2026
+{: .publication-year }
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src="{{ '/images/rerule_pipeline.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Replay What Matters: Off-Policy Replay for Efficient LLM Reinforcement Unlearning](https://arxiv.org/abs/2606.15333)
+
+**Zirui Pang**, Chenlong Zhang, Haosheng Tan, Zhuoran Jin, Jiaheng Wei, Zixin Zhong
+
+**TL;DR:** ReRULE reuses low-reward hard cases through importance-weighted off-policy replay to improve LLM reinforcement unlearning efficiency and retained knowledge quality at modest additional training cost.
+</div>
+</div>
+
+## 2025
+{: .publication-year }
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src="{{ '/images/sga_pipeline.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Label Smoothing Improves Gradient Ascent in LLM Unlearning](https://arxiv.org/pdf/2510.22376)
 
 **Zirui Pang**, Hao Zheng, Zhijie Deng, Ling Li, Zixin Zhong, Jiaheng Wei
 
-- We identify the instability of Gradient Ascent in LLM unlearning.
-- We propose Smoothed Gradient Ascent (SGA) with a tunable smoothing rate.
-- SGA achieves more stable and effective unlearning across benchmarks.
+**TL;DR:** Smoothed Gradient Ascent (SGA) applies label smoothing to stabilize gradient ascent and improve LLM unlearning effectiveness across benchmarks.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL26 finding</div><img src='images/offside_pipeline_v6.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL26 finding</div><img src="{{ '/images/offside_pipeline_v6.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OFFSIDE: Benchmarking Unlearning Misinformation in Multimodal Large Language Models](https://arxiv.org/abs/2510.22535)
@@ -22,56 +48,22 @@ Hao Zheng, **Zirui Pang**, Ling li, Zhijie Deng, Yuhan Pu, Zhaowei Zhu, Xiaobo X
 
 [**Project**](https://github.com/zh121800/OFFSIDE) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- We present OFFSIDE, a benchmark for multimodal unlearning based on football transfer rumors.
-- It provides real-world, manually curated data and four evaluation settings to test forgetting, utility, and robustness.
-- Our results reveal that current methods fail to unlearn visual rumors and are vulnerable to recovery and prompt attacks.
+**TL;DR:** OFFSIDE benchmarks multimodal unlearning with real-world football transfer rumors, revealing that current methods struggle to forget visual misinformation and remain vulnerable to recovery and prompt attacks.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/guard_pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src="{{ '/images/guard_pipeline.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GUARD: Generation-time LLM Unlearning via Adaptive Restriction and Detection](https://arxiv.org/abs/2505.13312)
 
 Zhijie Deng, Chris Yuhao Liu, **Zirui Pang**, Xinlei He, Lei Feng, Qi Xuan, Zhaowei Zhu, Jiaheng Wei
 
-- We propose GUARD, a generation-time unlearning framework for LLMs.
-- It detects forget-related prompts and blocks forbidden tokens during generation.
-- GUARD achieves effective forgetting without harming model utility.
+**TL;DR:** GUARD detects forget-related prompts and adaptively blocks forbidden tokens during generation, enabling effective LLM unlearning while preserving model utility.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/rerule_pipeline.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Replay What Matters: Off-Policy Replay for Efficient LLM Reinforcement Unlearning](https://arxiv.org/abs/2606.15333)
-
-**Zirui Pang**, Chenlong Zhang, Haosheng Tan, Zhuoran Jin, Jiaheng Wei, Zixin Zhong
-
-- We propose ReRULE, an off-policy replay enhancement for LLM reinforcement unlearning.
-- It stores low-reward hard cases in a replay buffer and reuses them via importance-sampled off-policy updates.
-- ReRULE improves unlearning efficiency and retain quality with only modest additional training cost.
-</div>
-</div>
-
-## 👥 Multi Agents
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/cameo_pipeline.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator](https://arxiv.org/abs/2604.03156)
-
-Yuhan Pu, Hao Zheng, Ziqian Mo, **Zirui Pang**, Yang Zhang, Tianyi Fan, Shuhong Wu, Jiaheng Wei
-
-
-- We propose CAMEO, a quality-aware multi-agent framework for conditional image editing.
-- It decomposes editing into planning, reference grounding, generation, evaluation, and iterative refinement.
-- CAMEO improves robustness, controllability, and structural consistency over single-step editing methods.
-</div>
-</div>
-
-## 🏞️ Label Noise
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/reveal_pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src="{{ '/images/reveal_pipeline.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [When VLMs Meet Image Classification: Test Sets Renovation via Missing Label Identification](https://arxiv.org/pdf/2505.16149)
@@ -80,10 +72,6 @@ Yuhan Pu, Hao Zheng, Ziqian Mo, **Zirui Pang**, Yang Zhang, Tianyi Fan, Shuhong 
 
 [**Project**](https://github.com/ZiruiPang/REVEAL-label-renovation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- We propose REVEAL, a framework that uses vision-language models to find and fix missing and noisy labels in image classification benchmarks.
-- It ensembles multiple VLMs and human feedback to renovate test sets with soft, accurate labels.
-- REVEAL greatly improves dataset quality and aligns closely with human judgments.
+**TL;DR:** REVEAL combines multiple vision-language models with human feedback to identify missing and noisy labels and improve image classification test sets with soft labels aligned with human judgments.
 </div>
 </div>
-
-

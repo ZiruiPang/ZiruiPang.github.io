@@ -79,27 +79,25 @@
 }
 
 .author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 75px;
-  // set width only, for non-square avatars
-  // height: 36px;
+  display: block;
+  width: 90px;
+  flex-shrink: 0;
 
   @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
+    width: 100%;
+    max-width: 220px;
+    margin: 0 auto;
   }
 
   img {
-    max-width: 175px;
-    min-width: 75px;
-    border-radius: 50%;
-
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
+    display: block;
+    width: 100%;
+    max-width: 220px;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 0;
+    padding: 5px;
+    border: 1px solid $border-color;
   }
 }
 
@@ -121,6 +119,8 @@
 
 .author__name {
   margin: 0;
+  text-align: center;
+  line-height: 1.4;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -138,6 +138,7 @@
 
 .author__bio {
   margin: 0;
+  text-align: center;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -267,4 +268,9 @@
   @include breakpoint($large) {
     display: none;
   }
+}
+.author__research {
+  white-space: normal;
+  margin-bottom: 1em;
+  text-align: center;
 }

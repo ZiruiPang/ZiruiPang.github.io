@@ -62,3 +62,8 @@
 }
 
 
+
+.masthead__menu-item a[aria-current="page"] {
+  font-weight: 700;
+  color: $link-color;
+}

@@ -410,3 +410,13 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+.page--without-sidebar {
+  @include breakpoint($large) {
+    width: 100%;
+    float: none;
+    margin: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}

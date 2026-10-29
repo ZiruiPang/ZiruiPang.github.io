@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zirui Pang"
-description              : "Focusing on LLM Unlearning and Agentic RL. "
+description              : "Focusing on LLM Unlearning, Agentic RL and Embodied AI"
 repository               : "ZiruiPang/ZiruiPang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zirui Pang (庞梓瑞)"
+  name             : "Zirui Pang"
+  name_zh          : "庞梓瑞"
   avatar           : "images/avatar.jpg"
   bio              : "PhD Student at HKUST-GZ"
   location         : "Guangdong, China"
