@@ -8,7 +8,7 @@
 
 Hao Zheng, **Zirui Pang**, Ling Li, Zhijie Deng, Yuhan Pu, Zhaowei Zhu, Xiaobo Xia, Jiaheng Wei
 
-<span class="selected-year">2025</span> · [**项目主页**](https://github.com/zh121800/OFFSIDE)
+<span class="selected-year">2025</span> · [**Project**](https://github.com/zh121800/OFFSIDE)
 
 **TL;DR:** OFFSIDE benchmarks multimodal unlearning with real-world football transfer rumors, revealing that current methods struggle to forget visual misinformation and remain vulnerable to recovery and prompt attacks.
 </div>

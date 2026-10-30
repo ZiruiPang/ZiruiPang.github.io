@@ -1,4 +1,4 @@
-I am currently a first-year PhD student (from Spring 2026) at the <span class="text-accent">Hong Kong University of Science and Technology (Guangzhou) (HKUST-GZ)</span>, within the <span class="text-accent">Data Science and Analytics Thrust, Info Hub</span>. I conduct my research under the supervision of <a href='https://zixinzh.github.io/homepage'>Zixin Zhong (钟梓昕)</a> and <a href='https://sites.google.com/ucsc.edu/jiahengwei'>Jiaheng Wei (魏嘉珩)</a>.
+I am currently a first-year PhD student (from Spring 2026) at the <span class="text-accent">Hong Kong University of Science and Technology (Guangzhou) (HKUST-GZ)</span>, within the <span class="text-accent">Data Science and Analytics Thrust, Info Hub</span>. I conduct my research under the supervision of Asst. Prof. <a href='https://zixinzh.github.io/homepage'>Zixin Zhong (钟梓昕)</a> and Asst. Prof. <a href='https://sites.google.com/ucsc.edu/jiahengwei'>Jiaheng Wei (魏嘉珩)</a>.
 
 My current research interests revolve around:
 

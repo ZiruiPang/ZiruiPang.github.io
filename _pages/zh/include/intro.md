@@ -1,4 +1,4 @@
-我目前是<span class="text-accent">香港科技大学（广州）（HKUST-GZ）</span><span class="text-accent">信息枢纽数据科学与分析学域（Data Science and Analytics Thrust）</span>的一年级博士生（2026 年春季入学），在<a href='https://zixinzh.github.io/homepage'>钟梓昕（Zixin Zhong）</a>和<a href='https://sites.google.com/ucsc.edu/jiahengwei'>魏嘉珩（Jiaheng Wei）</a>的指导下开展研究。
+我目前是<span class="text-accent">香港科技大学（广州）（HKUST-GZ）</span><span class="text-accent">信息枢纽数据科学与分析学域（Data Science and Analytics Thrust）</span>的一年级博士生（2026 年春季入学），在助理教授<a href='https://zixinzh.github.io/homepage'>钟梓昕（Zixin Zhong）</a>和助理教授<a href='https://sites.google.com/ucsc.edu/jiahengwei'>魏嘉珩（Jiaheng Wei）</a>的指导下开展研究。
 
 我的研究兴趣主要包括：
 
