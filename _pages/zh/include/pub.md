@@ -57,7 +57,7 @@ Yuhan Pu, Hao Zheng, Ziqian Mo, **Zirui Pang**, Hill Zhang, Tianyi Fan, Shuhong 
 
 Hao Zheng, **Zirui Pang**, Ling Li, Zhijie Deng, Yuhan Pu, Zhaowei Zhu, Xiaobo Xia, Jiaheng Wei
 
-[**项目主页**](https://github.com/zh121800/OFFSIDE){% assign offside_paper = site.data.scholar.papers | where: "id", "L9GRttsAAAAJ:qjMakFHDy7sC" | first %}{% if offside_paper and offside_paper.citations > 0 %} <strong>| 引用：{{ offside_paper.citations }}</strong>{% endif %}
+[**项目主页**](https://github.com/zh121800/OFFSIDE)
 
 **TL;DR:** OFFSIDE benchmarks multimodal unlearning with real-world football transfer rumors, revealing that current methods struggle to forget visual misinformation and remain vulnerable to recovery and prompt attacks.
 </div>
@@ -81,7 +81,7 @@ Zhijie Deng, Chris Yuhao Liu, **Zirui Pang**, Xinlei He, Lei Feng, Qi Xuan, Zhao
 
 **Zirui Pang**, Haosheng Tan, Yuhan Pu, Zhijie Deng, Zhouan Shen, Keyu Hu, Jiaheng Wei
 
-[**项目主页**](https://github.com/ZiruiPang/REVEAL-label-renovation){% assign reveal_paper = site.data.scholar.papers | where: "id", "L9GRttsAAAAJ:u-x6o8ySG0sC" | first %}{% if reveal_paper and reveal_paper.citations > 0 %} <strong>| 引用：{{ reveal_paper.citations }}</strong>{% endif %}
+[**项目主页**](https://github.com/ZiruiPang/REVEAL-label-renovation)
 
 **TL;DR:** We investigate the limitations of VLM in image classification task, and propose a VLM-based test-data renovation pipeline that detects potential label errors and missing labels.
 </div>
