@@ -8,6 +8,7 @@
 # Site Settings
 title                    : "Zirui Pang"
 description              : "Focusing on LLM Unlearning, Agentic RL and Embodied AI"
+description_zh           : "研究方向：大模型遗忘、智能体强化学习与具身智能"
 repository               : "ZiruiPang/ZiruiPang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +26,9 @@ author:
   name_zh          : "庞梓瑞"
   avatar           : "images/avatar.jpg"
   bio              : "PhD Student at HKUST-GZ"
+  bio_zh           : "HKUST-GZ 博士生"
   location         : "Guangdong, China"
+  location_zh      : "中国广东"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=L9GRttsAAAAJ"
@@ -90,6 +93,7 @@ exclude:
   - log
   - node_modules
   - package.json
+  - scripts
   - tmp
   - vendor
 keep_files:

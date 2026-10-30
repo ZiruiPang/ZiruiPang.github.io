@@ -1,5 +1,6 @@
 (function () {
   "use strict";
+  var zh = /^zh/i.test(document.documentElement.lang || "");
   var root = document.getElementById("publication-results");
   if (!root) return;
   var search = root.querySelector(".publication-search");
@@ -86,7 +87,9 @@
       group.heading.hidden = !group.papers.some(function (paper) { return !paper.element.hidden; });
       if (!group.heading.hidden) highlight(group.heading, terms);
     });
-    status.textContent = query ? count + " of " + papers.length + " publications" : papers.length + " publications";
+    status.textContent = query
+      ? (zh ? count + " / " + papers.length + " 篇论文" : count + " of " + papers.length + " publications")
+      : (zh ? papers.length + " 篇论文" : papers.length + " publications");
     clear.hidden = input.value.length === 0;
     empty.hidden = count !== 0;
   }

@@ -11,7 +11,7 @@
         <td class="education-period">2026.01 – Present</td>
       </tr>
       <tr class="education-major-row">
-        <td colspan="3" class="education-major">Data Science and Analyst</td>
+        <td colspan="3" class="education-major">Data Science and Analytics</td>
       </tr>
     </tbody>
     <tbody>

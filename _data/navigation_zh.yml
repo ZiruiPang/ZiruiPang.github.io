@@ -1,0 +1,21 @@
+main:
+  - title: "关于我"
+    url: "/zh/"
+
+  - title: "论文"
+    url: "/zh/publications/"
+
+  - title: "教育经历"
+    url: "/zh/educations/"
+
+  - title: "实习经历"
+    url: "/zh/internships/"
+
+  - title: "学术服务"
+    url: "/zh/services/"
+
+  - title: "音乐"
+    url: "/zh/music/"
+
+  - title: "简历"
+    url: "/zh/cv/"

@@ -21,7 +21,7 @@
 
 **Zirui Pang**, Chenlong Zhang, Haosheng Tan, Zhuoran Jin, Jiaheng Wei, Zixin Zhong
 
-**TL;DR:** ReRULE reuses low-reward hard cases through importance-weighted off-policy replay to improve LLM reinforcement unlearning efficiency and retained knowledge quality at modest additional training cost.
+**TL;DR:** We propose ReRULE, which improves RULE by replaying hard cases for more efficient and effective unlearning.
 </div>
 </div>
 
@@ -32,7 +32,7 @@
 
 Yuhan Pu, Hao Zheng, Ziqian Mo, **Zirui Pang**, Hill Zhang, Tianyi Fan, Shuhong Wu, Jiaheng Wei
 
-**TL;DR:** CAMEO is a structured multi-agent framework that reformulates conditional image editing as a quality-aware, feedback-driven process, achieving 20% higher win rate on average over state-of-the-art models.
+**TL;DR:** We propose CAMEO, a structured multi-agent framework that reframes conditional image editing as a quality-aware, feedback-driven process and improves average win rate by 20% over state-of-the-art models.
 </div>
 </div>
 
@@ -46,7 +46,7 @@ Yuhan Pu, Hao Zheng, Ziqian Mo, **Zirui Pang**, Hill Zhang, Tianyi Fan, Shuhong 
 
 **Zirui Pang**, Hao Zheng, Zhijie Deng, Ling Li, Zixin Zhong, Jiaheng Wei
 
-**TL;DR:** Smoothed Gradient Ascent (SGA) applies label smoothing to stabilize gradient ascent and improve LLM unlearning effectiveness across benchmarks.
+**TL;DR:** We propose Smoothed Gradient Ascent (SGA), a Gradient Ascent method improved with generalized label smoothing, which achieves both strong forgetting quality and high model utility in LLM unlearning tasks.
 </div>
 </div>
 
@@ -55,22 +55,22 @@ Yuhan Pu, Hao Zheng, Ziqian Mo, **Zirui Pang**, Hill Zhang, Tianyi Fan, Shuhong 
 
 [OFFSIDE: Benchmarking Unlearning Misinformation in Multimodal Large Language Models](https://arxiv.org/abs/2510.22535)
 
-Hao Zheng, **Zirui Pang**, Ling li, Zhijie Deng, Yuhan Pu, Zhaowei Zhu, Xiaobo Xia, Jiaheng Wei
+Hao Zheng, **Zirui Pang**, Ling Li, Zhijie Deng, Yuhan Pu, Zhaowei Zhu, Xiaobo Xia, Jiaheng Wei
 
-[**Project**](https://github.com/zh121800/OFFSIDE) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/zh121800/OFFSIDE){% assign offside_paper = site.data.scholar.papers | where: "id", "L9GRttsAAAAJ:qjMakFHDy7sC" | first %}{% if offside_paper and offside_paper.citations > 0 %} <strong>| Citations: {{ offside_paper.citations }}</strong>{% endif %}
 
 **TL;DR:** OFFSIDE benchmarks multimodal unlearning with real-world football transfer rumors, revealing that current methods struggle to forget visual misinformation and remain vulnerable to recovery and prompt attacks.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src="{{ '/images/guard_pipeline.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Workshop</div><img src="{{ '/images/guard_pipeline.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GUARD: Generation-time LLM Unlearning via Adaptive Restriction and Detection](https://arxiv.org/abs/2505.13312)
 
 Zhijie Deng, Chris Yuhao Liu, **Zirui Pang**, Xinlei He, Lei Feng, Qi Xuan, Zhaowei Zhu, Jiaheng Wei
 
-**TL;DR:** GUARD detects forget-related prompts and adaptively blocks forbidden tokens during generation, enabling effective LLM unlearning while preserving model utility.
+**TL;DR:** We propose Generation-time Unlearning via Adaptive Restriction and Detection (GUARD), a framework that enables dynamic unlearning during LLM generation.
 </div>
 </div>
 
@@ -81,8 +81,8 @@ Zhijie Deng, Chris Yuhao Liu, **Zirui Pang**, Xinlei He, Lei Feng, Qi Xuan, Zhao
 
 **Zirui Pang**, Haosheng Tan, Yuhan Pu, Zhijie Deng, Zhouan Shen, Keyu Hu, Jiaheng Wei
 
-[**Project**](https://github.com/ZiruiPang/REVEAL-label-renovation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/ZiruiPang/REVEAL-label-renovation){% assign reveal_paper = site.data.scholar.papers | where: "id", "L9GRttsAAAAJ:u-x6o8ySG0sC" | first %}{% if reveal_paper and reveal_paper.citations > 0 %} <strong>| Citations: {{ reveal_paper.citations }}</strong>{% endif %}
 
-**TL;DR:** REVEAL combines multiple vision-language models with human feedback to identify missing and noisy labels and improve image classification test sets with soft labels aligned with human judgments.
+**TL;DR:** We investigate the limitations of VLM in image classification task, and propose a VLM-based test-data renovation pipeline that detects potential label errors and missing labels.
 </div>
 </div>

@@ -319,3 +319,135 @@ a, a:visited, a:hover, a:focus {
         font-size: 0.85em;
     }
 }
+
+/* --------------------------------------------------------------------------
+   Language switch
+   -------------------------------------------------------------------------- */
+
+.masthead__menu {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+}
+
+.masthead__menu .greedy-nav {
+    flex: 1 1 auto;
+    min-width: 0;
+}
+
+.lang-switch {
+    flex: 0 0 auto;
+    display: inline-flex;
+    align-items: center;
+    padding: 0.2em 0.45em;
+    border: 1px solid $accent-color;
+    border-radius: 999px;
+    background: #fff;
+    font-size: 0.8em;
+    line-height: 1;
+    white-space: nowrap;
+}
+
+.lang-opt,
+.lang-opt:visited {
+    padding: 0.25em 0.35em;
+    border-radius: 999px;
+    color: $gray;
+    text-decoration: none;
+}
+
+.lang-opt:hover,
+.lang-opt:focus {
+    color: $accent-color;
+    text-decoration: none;
+}
+
+.lang-opt.is-active {
+    color: #fff;
+    background: $accent-color;
+}
+
+.lang-sep {
+    padding: 0 0.15em;
+    color: $gray;
+}
+
+/* --------------------------------------------------------------------------
+   Google Scholar metrics (sidebar)
+   -------------------------------------------------------------------------- */
+
+.author__scholar {
+    max-width: 320px;
+    margin: 1.2em auto 0;
+    padding-top: 0.9em;
+    border-top: 1px solid $border-color;
+    font-family: $sans-serif;
+}
+
+.author__scholar-metrics {
+    display: flex;
+    justify-content: space-between;
+    gap: 0.4em;
+    text-align: center;
+}
+
+.author__scholar-metric {
+    flex: 1 1 0;
+    min-width: 0;
+}
+
+.author__scholar-value {
+    display: block;
+    color: $accent-color;
+    font-size: 1.35em;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.author__scholar-label {
+    display: block;
+    margin-top: 0.2em;
+    color: $gray;
+    font-size: 0.68em;
+    line-height: 1.2;
+}
+
+.author__scholar-note {
+    margin: 0.6em 0 0;
+    color: $gray;
+    font-size: 0.68em;
+    line-height: 1.3;
+    text-align: center;
+}
+
+/* Roomier line height for Chinese prose */
+html[lang="zh-CN"] .page__content p,
+html[lang="zh-CN"] .page__content li {
+    line-height: 1.75;
+}
+
+@media (max-width: 924px) {
+    .author__bio {
+        font-size: 0.85em;
+    }
+}
+
+.selected-year {
+    display: inline-block;
+    margin-top: 0.15em;
+    color: $gray;
+    font-size: 0.9em;
+    letter-spacing: 0.02em;
+}
+
+@media (min-width: 768px) {
+    .page--home .paper-box-image {
+        min-width: 160px;
+        max-width: 32%;
+    }
+
+    .page--home .paper-box-text {
+        max-width: 66%;
+        padding-left: 2em;
+    }
+}
