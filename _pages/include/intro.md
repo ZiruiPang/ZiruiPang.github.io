@@ -4,6 +4,6 @@ My current research interests revolve around:
 
 1. **LLM Unlearning**: Exploring techniques that enable large language models to selectively “forget” specific learned information.
 2. **Agentic Reinforcement Learning**: Exploring the application of reinforcement learning in agent training, with a particular focus on how to improve training efficiency.
-3. **Application of Multi Agents**: Exploring the applications of multi-agent systems in specific domains such as finance, music, and video.
+3. **Embodied AI**: Investigating the role of high-quality data in improving a robot's physical capabilities.
 
 I have a deep passion for music and enjoy the pleasure it brings me in my leisure time. I previously had a long-term collaboration with the <a href='https://space.bilibili.com/1645566770?spm_id_from=333.337.0.0'>Choir of Central University of Finance and Economics</a>.
