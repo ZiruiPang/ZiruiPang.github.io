@@ -1,13 +1,19 @@
 {
-  "updated": "2026-10-30T08:55:00Z",
+  "updated": "2026-11-13T04:19:24Z",
   "scholar_id": "L9GRttsAAAAJ",
-  "citations": 37,
-  "citations_since_2021": 37,
+  "citations": 38,
+  "citations_since_2021": 38,
   "h_index": 3,
   "i10_index": 1,
   "year_graph": [
-    { "year": 2025, "citations": 8 },
-    { "year": 2026, "citations": 29 }
+    {
+      "year": 2025,
+      "citations": 8
+    },
+    {
+      "year": 2026,
+      "citations": 30
+    }
   ],
   "papers": [
     {
@@ -31,7 +37,7 @@
     {
       "id": "L9GRttsAAAAJ:UeHWp8X0CEIC",
       "title": "Label Smoothing Improves Gradient Ascent in LLM Unlearning",
-      "citations": 2,
+      "citations": 3,
       "year": 2025
     },
     {

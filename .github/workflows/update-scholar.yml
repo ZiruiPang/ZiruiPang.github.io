@@ -2,9 +2,13 @@ name: Update Google Scholar metrics
 
 on:
   schedule:
-    # Mondays 01:00 UTC (09:00 Asia/Shanghai)
-    - cron: "0 1 * * 1"
+    # Daily 01:00 UTC (09:00 Asia/Shanghai)
+    - cron: "0 1 * * *"
   workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/update-scholar.yml"
+      - "scripts/update_scholar.py"
 
 permissions:
   contents: write

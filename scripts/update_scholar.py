@@ -10,6 +10,7 @@ from __future__ import annotations
 import json
 import re
 import sys
+import time
 import urllib.error
 import urllib.request
 from datetime import datetime, timezone
@@ -179,12 +180,17 @@ def build_payload(html: str) -> dict | None:
 
 
 def main() -> int:
-    html = fetch_html(PROFILE_URL)
-    if not html:
-        log("warning: keeping existing scholar.json")
-        return 0
+    payload = None
+    for attempt in range(1, 4):
+        html = fetch_html(PROFILE_URL)
+        if html:
+            payload = build_payload(html)
+        if payload:
+            break
+        if attempt < 3:
+            log(f"warning: attempt {attempt} failed; retrying in 10s")
+            time.sleep(10)
 
-    payload = build_payload(html)
     if not payload:
         log("warning: keeping existing scholar.json")
         return 0
