@@ -14,6 +14,17 @@
 ## 2026
 {: .publication-year }
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src="{{ '/images/leaf_opd_comic.png' | relative_url }}" alt="LEAF-OPD pipeline" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LEAF-OPD: Learning to Forget from Privileged Contexts via On-Policy Distillation](https://arxiv.org/abs/2611.20674v1)
+
+**Zirui Pang**, Zhijie Deng, Yuancheng Wang, Qihan Yu, Xin Li, Jiaheng Wei, Zixin Zhong
+
+**TL;DR:** We propose LEAF-OPD, an LLM unlearning method that distills a teacher into a student with privileged context on forget data and without it on retain data.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src="{{ '/images/rerule_pipeline.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
