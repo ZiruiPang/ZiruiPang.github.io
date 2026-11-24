@@ -386,7 +386,7 @@ a, a:visited, a:hover, a:focus {
     color: $gray;
 }
 
-/* Solid blue navigation bar with white lettering. */
+/* Solid accent navigation bar with white lettering. */
 .masthead {
     background-color: $accent-color;
     border-bottom-color: $accent-color;
@@ -407,6 +407,15 @@ a, a:visited, a:hover, a:focus {
 
     .greedy-nav .visible-links a {
         margin: 0 0.3rem;
+        text-align: center;
+    }
+
+    .greedy-nav > button.hidden ~ .visible-links {
+        width: 100%;
+    }
+
+    .greedy-nav .visible-links > li {
+        text-align: center;
     }
 
     .greedy-nav .hidden-links a {
@@ -498,6 +507,7 @@ html[lang="zh-CN"] .page__content li {
 
 .page--home .paper-box {
     padding: 1.2em 0;
+    border-bottom: 1px solid rgba($accent-color, .28);
 }
 
 .page--home .paper-box-text p {
