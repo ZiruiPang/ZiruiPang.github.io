@@ -1,0 +1,39 @@
+{% assign cv_lang = 'en' %}
+{% if page.lang == 'zh-CN' %}{% assign cv_lang = 'zh' %}{% endif %}
+<div class="academic-cv">
+  <header class="cv-header">
+    <div class="cv-heading-row">
+      <p class="cv-eyebrow">{% if cv_lang == 'zh' %}个人简历{% else %}Curriculum Vitae{% endif %}</p>
+      {% if site.data.cv.pdf != empty %}
+      <a class="cv-download" href="{{ site.data.cv.pdf | relative_url }}" download><i class="fas fa-file-pdf" aria-hidden="true"></i> {% if cv_lang == 'zh' %}下载 PDF{% else %}Download PDF{% endif %}</a>
+      {% else %}
+      <span class="cv-pdf-pending"><i class="far fa-file-pdf" aria-hidden="true"></i> {% if cv_lang == 'zh' %}PDF 即将提供{% else %}PDF coming soon{% endif %}</span>
+      {% endif %}
+    </div>
+    <h1>{% if cv_lang == 'zh' %}{{ site.author.name_zh }} <span class="cv-name-secondary">{{ site.author.name }}</span>{% else %}{{ site.author.name }}{% endif %}</h1>
+    <p class="cv-subtitle">{% if cv_lang == 'zh' %}香港科技大学（广州） · 数据科学与分析 · 博士研究生{% else %}PhD Student · Data Science and Analytics · HKUST-GZ{% endif %}</p>
+    <div class="cv-contact">
+      <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+      <a href="{{ site.author.googlescholar }}">Google Scholar</a>
+      <a href="https://github.com/{{ site.author.github }}">GitHub</a>
+      <a href="https://pangzirui.com">https://pangzirui.com</a>
+    </div>
+  </header>
+  {% for section in site.data.cv.sections %}
+  <section class="cv-section{% if section.plain_content %} cv-section-plain{% endif %}" aria-labelledby="cv-{{ section.id }}">
+    <h2 id="cv-{{ section.id }}">{{ section.title[cv_lang] }}</h2>
+    {% assign cv_full_width = false %}
+    {% if section.id == 'research' or section.id == 'skills' or section.id == 'languages' %}{% assign cv_full_width = true %}{% endif %}
+    {% for item in section.entries %}
+    <div class="cv-entry{% if cv_full_width %} cv-entry-full{% endif %}">
+      {% unless cv_full_width %}<div class="cv-date">{{ item.date[cv_lang] }}</div>{% endunless %}
+      <div class="cv-entry-body">
+        <h3>{% if item.url %}<a href="{{ item.url }}">{{ item.title[cv_lang] | escape }}</a>{% else %}{{ item.title[cv_lang] | escape }}{% endif %}</h3>
+        {% if item.detail[cv_lang] != empty %}<div class="cv-detail">{{ item.detail[cv_lang] | markdownify }}</div>{% endif %}
+        {% if item.extra[cv_lang] != empty %}<p class="cv-extra">{{ item.extra[cv_lang] | escape }}</p>{% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </section>
+  {% endfor %}
+</div>

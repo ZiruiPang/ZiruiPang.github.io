@@ -1,4 +1,1 @@
-# CV
-{: .section-title }
-
-Coming soon.
+{% include cv.html %}

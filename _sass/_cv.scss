@@ -1,0 +1,46 @@
+/* Academic Classic-inspired CV, using the site's shared accent and typeface. */
+.page__content .academic-cv {
+  max-width: 960px;
+  margin: 0 auto 3rem;
+  font-size: 1rem;
+  line-height: 1.65;
+
+  .cv-header { padding: 0 0 1.7rem; border-bottom: 2px solid $accent-color; }
+  .cv-heading-row { display: flex; justify-content: space-between; align-items: center; gap: 1rem; margin-bottom: 1rem; }
+  .cv-eyebrow { margin: 0; color: $accent-color; font-size: .8rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; }
+  h1 { margin: 0 0 .5rem; padding: 0; font-size: 2.5rem; font-weight: 500; line-height: 1.2; border: 0; }
+  h1:before { display: none; }
+  .cv-name-secondary { font-size: 1.3rem; margin-left: .6rem; color: $dark-gray; }
+  .cv-subtitle { margin: 0 0 .65rem; color: $dark-gray; }
+  .cv-contact { display: flex; flex-wrap: wrap; gap: .4rem 1.4rem; font-size: .9rem; }
+  a { text-decoration: none; overflow-wrap: anywhere; }
+  a:hover { text-decoration: underline; }
+  a:focus-visible { outline: 2px solid $accent-color; outline-offset: 4px; }
+  .cv-download { padding: .45rem .85rem; border: 1px solid $accent-color; border-radius: 3px; font-size: .85rem; }
+  .cv-pdf-pending { color: $dark-gray; font-size: .8rem; }
+  .cv-section { margin-top: 1.8rem; }
+  h2 { margin: 0 0 1.1rem; padding: 0 0 .4rem; border-bottom: 1px solid rgba($accent-color, .28); color: $accent-color; font-size: 1.15rem; font-weight: 700; }
+  .cv-entry { display: grid; grid-template-columns: 155px minmax(0, 1fr); gap: 1.5rem; margin: 0 0 1.2rem; break-inside: avoid; }
+  .cv-entry-full { grid-template-columns: minmax(0, 1fr); }
+  .cv-date { padding-top: .12rem; color: $dark-gray; font-size: .85rem; font-variant-numeric: tabular-nums; }
+  h3 { margin: 0; font-size: 1rem; font-weight: 700; line-height: 1.5; }
+  .cv-section-plain h3, .cv-section-plain strong { font-weight: 400; }
+  h3 a { color: $text-color; }
+  h3 a:hover { color: $accent-color; }
+  .cv-detail p { margin: .2rem 0 0; font-size: .95rem; }
+  .cv-extra { margin: .2rem 0 0; color: $dark-gray; font-size: .85rem; }
+
+  @media (max-width: 600px) {
+    h1 { font-size: 2rem; }
+    .cv-heading-row { flex-wrap: wrap; }
+    .cv-entry { grid-template-columns: minmax(0, 1fr); gap: .2rem; margin-bottom: 1.3rem; }
+    .cv-date { color: $accent-color; }
+    .cv-contact { gap: .3rem 1rem; }
+  }
+}
+
+@media print {
+  .academic-cv .cv-download, .academic-cv .cv-pdf-pending { display: none; }
+  .page__content .academic-cv { max-width: none; font-size: 10pt; }
+  .academic-cv h2 { break-after: avoid; }
+}

@@ -1,0 +1,308 @@
+{
+  "pdf": "",
+  "sections": [
+    {
+      "id": "experience",
+      "title": {
+        "en": "Internship",
+        "zh": "实习经历"
+      },
+      "entries": [
+        {
+          "date": {
+            "en": "2024.12 – 2025.12",
+            "zh": "2024.12 – 2025.12"
+          },
+          "title": {
+            "en": "Hong Kong University of Science and Technology (Guangzhou)",
+            "zh": "香港科技大学（广州）"
+          },
+          "detail": {
+            "en": "Research Assistant · Guangdong, China",
+            "zh": "研究助理 · 中国广东"
+          },
+          "extra": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "date": {
+            "en": "2022.02 – 2022.04",
+            "zh": "2022.02 – 2022.04"
+          },
+          "title": {
+            "en": "iFlytek",
+            "zh": "科大讯飞"
+          },
+          "detail": {
+            "en": "Assistant Software Development Engineer · Anhui, China",
+            "zh": "助理软件开发工程师 · 中国安徽"
+          },
+          "extra": {
+            "en": "",
+            "zh": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "education",
+      "title": {
+        "en": "Education",
+        "zh": "教育经历"
+      },
+      "entries": [
+        {
+          "date": {
+            "en": "2026.01 – Present",
+            "zh": "2026.01 – 至今"
+          },
+          "title": {
+            "en": "Hong Kong University of Science and Technology (Guangzhou)",
+            "zh": "香港科技大学（广州）"
+          },
+          "detail": {
+            "en": "PhD Student · Data Science and Analytics",
+            "zh": "博士研究生 · 数据科学与分析"
+          },
+          "extra": {
+            "en": "Advisors: Zixin Zhong and Jiaheng Wei",
+            "zh": "导师：钟梓昕、魏嘉珩"
+          }
+        },
+        {
+          "date": {
+            "en": "2024.08 – 2025.12",
+            "zh": "2024.08 – 2025.12"
+          },
+          "title": {
+            "en": "University of Illinois Urbana-Champaign",
+            "zh": "伊利诺伊大学厄巴纳-香槟分校"
+          },
+          "detail": {
+            "en": "Master · Predictive Analytics & Risk Management",
+            "zh": "硕士研究生 · 预测分析与风险管理"
+          },
+          "extra": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "date": {
+            "en": "2019.09 – 2023.06",
+            "zh": "2019.09 – 2023.06"
+          },
+          "title": {
+            "en": "Central University of Finance and Economics",
+            "zh": "中央财经大学"
+          },
+          "detail": {
+            "en": "Undergraduate · Data Science and Big Data Technology",
+            "zh": "本科 · 数据科学与大数据技术"
+          },
+          "extra": {
+            "en": "",
+            "zh": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "publications",
+      "title": {
+        "en": "Publications",
+        "zh": "论文发表"
+      },
+      "entries": [
+        {
+          "date": {
+            "en": "2025",
+            "zh": "2025"
+          },
+          "title": {
+            "en": "OFFSIDE: Benchmarking Unlearning Misinformation in Multimodal Large Language Models",
+            "zh": "OFFSIDE: Benchmarking Unlearning Misinformation in Multimodal Large Language Models"
+          },
+          "detail": {
+            "en": "Hao Zheng, **Zirui Pang**, Ling Li, Zhijie Deng, Yuhan Pu, Zhaowei Zhu, Xiaobo Xia, Jiaheng Wei",
+            "zh": "Hao Zheng, **Zirui Pang**, Ling Li, Zhijie Deng, Yuhan Pu, Zhaowei Zhu, Xiaobo Xia, Jiaheng Wei"
+          },
+          "extra": {
+            "en": "ACL 2026 Findings",
+            "zh": "ACL 2026 Findings"
+          },
+          "url": "https://arxiv.org/abs/2510.22535"
+        },
+        {
+          "date": {
+            "en": "2025",
+            "zh": "2025"
+          },
+          "title": {
+            "en": "GUARD: Generation-time LLM Unlearning via Adaptive Restriction and Detection",
+            "zh": "GUARD: Generation-time LLM Unlearning via Adaptive Restriction and Detection"
+          },
+          "detail": {
+            "en": "Zhijie Deng, Chris Yuhao Liu, **Zirui Pang**, Xinlei He, Lei Feng, Qi Xuan, Zhaowei Zhu, Jiaheng Wei",
+            "zh": "Zhijie Deng, Chris Yuhao Liu, **Zirui Pang**, Xinlei He, Lei Feng, Qi Xuan, Zhaowei Zhu, Jiaheng Wei"
+          },
+          "extra": {
+            "en": "ICML 2025 Workshop",
+            "zh": "ICML 2025 Workshop"
+          },
+          "url": "https://arxiv.org/abs/2505.13312"
+        }
+      ]
+    },
+    {
+      "id": "service",
+      "title": {
+        "en": "Service",
+        "zh": "学术服务"
+      },
+      "entries": [
+        {
+          "date": {
+            "en": "Fall 2026",
+            "zh": "2026 年秋季"
+          },
+          "title": {
+            "en": "Teaching Assistant",
+            "zh": "助教"
+          },
+          "detail": {
+            "en": "UFUG2601 C++ Programming, HKUST-GZ",
+            "zh": "UFUG2601 C++ 程序设计，香港科技大学（广州）"
+          },
+          "extra": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "date": {
+            "en": "Reviewer",
+            "zh": "审稿"
+          },
+          "title": {
+            "en": "ICLR",
+            "zh": "ICLR"
+          },
+          "detail": {
+            "en": "",
+            "zh": ""
+          },
+          "extra": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "date": {
+            "en": "Volunteer",
+            "zh": "志愿服务"
+          },
+          "title": {
+            "en": "CCF YOCSEF Guangzhou Workshop 0905",
+            "zh": "CCF YOCSEF 广州 Workshop 0905"
+          },
+          "detail": {
+            "en": "",
+            "zh": ""
+          },
+          "extra": {
+            "en": "",
+            "zh": ""
+          }
+        }
+      ],
+      "plain_content": true
+    },
+    {
+      "id": "skills",
+      "title": {
+        "en": "Skills",
+        "zh": "技能"
+      },
+      "entries": [
+        {
+          "date": {
+            "en": "",
+            "zh": ""
+          },
+          "title": {
+            "en": "Python, PyTorch, LLM post-training",
+            "zh": "Python，PyTorch，大模型后训练"
+          },
+          "detail": {
+            "en": "",
+            "zh": ""
+          },
+          "extra": {
+            "en": "",
+            "zh": ""
+          }
+        }
+      ],
+      "plain_content": true
+    },
+    {
+      "id": "languages",
+      "title": {
+        "en": "Languages",
+        "zh": "语言"
+      },
+      "entries": [
+        {
+          "date": {
+            "en": "",
+            "zh": ""
+          },
+          "title": {
+            "en": "Chinese (native), English",
+            "zh": "中文（母语），英语"
+          },
+          "detail": {
+            "en": "",
+            "zh": ""
+          },
+          "extra": {
+            "en": "",
+            "zh": ""
+          }
+        }
+      ],
+      "plain_content": true
+    },
+    {
+      "id": "research",
+      "title": {
+        "en": "Research Interests",
+        "zh": "研究方向"
+      },
+      "entries": [
+        {
+          "date": {
+            "en": "",
+            "zh": ""
+          },
+          "title": {
+            "en": "LLM Unlearning, Agentic Reinforcement Learning, Embodied AI",
+            "zh": "大模型遗忘，智能体强化学习，具身智能"
+          },
+          "detail": {
+            "en": "",
+            "zh": ""
+          },
+          "extra": {
+            "en": "",
+            "zh": ""
+          }
+        }
+      ],
+      "plain_content": true
+    }
+  ]
+}

@@ -1,4 +1,1 @@
-# 简历
-{: .section-title }
-
-即将更新。
+{% include cv.html %}
