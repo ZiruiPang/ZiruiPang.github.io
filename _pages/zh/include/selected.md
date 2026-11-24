@@ -1,4 +1,4 @@
-# 📑 精选论文
+# 精选论文
 {: #selected-publications }
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src="{{ '/images/offside_pipeline_v6.png' | relative_url }}" alt="OFFSIDE pipeline" width="100%"></div></div>

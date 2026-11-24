@@ -52,19 +52,19 @@ $type-size-8                : 0.625em;  // ~10px
    ========================================================================== */
 
 $gray                       : #7a8288;
-$dark-gray                  : #000000;
+$dark-gray                  : #0A1008;
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #FFFFFF;
-$background-color           : #FFFFFF;
+$body-color                 : #F2F2F2;
+$background-color           : #F2F2F2;
 $code-background-color      : #181818;
 $code-background-color-dark : $light-gray;
-$text-color                 : #000000;
+$text-color                 : #0A1008;
 $border-color               : #303030;
 
-$accent-color               : #124BBE;
+$accent-color               : #20623B;
 $primary-color              : $accent-color;
 $success-color              : #62c462;
 $warning-color              : #f89406;
@@ -78,7 +78,7 @@ $dribbble-color : $accent-color;
 $facebook-color : $accent-color;
 $flickr-color : $accent-color;
 $foursquare-color : $accent-color;
-$github-color               : #000000;
+$github-color               : #0A1008;
 $google-plus-color : $accent-color;
 $instagram-color : $accent-color;
 $lastfm-color : $accent-color;

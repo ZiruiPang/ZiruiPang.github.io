@@ -116,10 +116,16 @@ h1:before, .anchor:before {
 }
 
 .page--home .page__content h1 {
-    font-size: 1.6em;
-    border-top: 1px solid rgba($accent-color, .28);
-    padding-top: 0.75em;
-    border-bottom: 0;
+    font-size: 1rem;
+    text-align: center;
+    padding: 0.1em 0.65em;
+    border: 0;
+    background: $accent-color;
+    color: $background-color;
+}
+
+.page--home .page__content h1:before {
+    display: none;
 }
 
 
@@ -488,6 +494,19 @@ html[lang="zh-CN"] .page__content li {
     .author__bio {
         font-size: 0.85em;
     }
+}
+
+.page--home .paper-box {
+    padding: 1.2em 0;
+}
+
+.page--home .paper-box-text p {
+    line-height: 1.4;
+    margin-bottom: 0.3em;
+}
+
+.page--home .paper-box-text p:last-child {
+    margin-bottom: 0;
 }
 
 .selected-year {
