@@ -1,5 +1,5 @@
-# Selected Publications
-{: .section-title }
+# 📑 Selected Publications
+{: #selected-publications }
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src="{{ '/images/offside_pipeline_v6.png' | relative_url }}" alt="OFFSIDE pipeline" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

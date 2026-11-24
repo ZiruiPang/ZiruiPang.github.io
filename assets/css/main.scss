@@ -106,13 +106,20 @@ h1:before, .anchor:before {
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #00369f;
+    background-color: $accent-color;
     font-size: .8em;
 }
 
 .page__content h1.section-title {
     font-size: 2em;
     line-height: 1.25;
+}
+
+.page--home .page__content h1 {
+    font-size: 1.6em;
+    border-top: 1px solid rgba($accent-color, .28);
+    padding-top: 0.75em;
+    border-bottom: 0;
 }
 
 
@@ -264,7 +271,7 @@ a, a:visited, a:hover, a:focus {
         padding: 0.65em 0.8em;
         font: inherit;
         color: $text-color;
-        background: #fff;
+        background: $background-color;
         border: 1px solid #aaa;
         border-radius: 4px;
     }
@@ -272,7 +279,7 @@ a, a:visited, a:hover, a:focus {
     button {
         font: inherit;
         color: $accent-color;
-        background: #fff;
+        background: $background-color;
         border: 1px solid $accent-color;
         border-radius: 4px;
         padding: 0.5em 0.8em;
@@ -282,7 +289,7 @@ a, a:visited, a:hover, a:focus {
 }
 
 #publication-results mark.search-match {
-    background-color: #144D5C;
+    background-color: $accent-color;
     color: #fff;
     border-radius: 2px;
     padding: 0;
@@ -343,7 +350,7 @@ a, a:visited, a:hover, a:focus {
     padding: 0.2em 0.45em;
     border: 1px solid $accent-color;
     border-radius: 999px;
-    background: #fff;
+    background: $background-color;
     font-size: 0.8em;
     line-height: 1;
     white-space: nowrap;
@@ -371,6 +378,56 @@ a, a:visited, a:hover, a:focus {
 .lang-sep {
     padding: 0 0.15em;
     color: $gray;
+}
+
+/* Solid blue navigation bar with white lettering. */
+.masthead {
+    background-color: $accent-color;
+    border-bottom-color: $accent-color;
+
+    .greedy-nav,
+    .greedy-nav .hidden-links {
+        background: $accent-color;
+    }
+
+    .greedy-nav .visible-links a,
+    .greedy-nav .hidden-links a {
+        background: $accent-color;
+        color: #fff;
+        font-weight: 500;
+        padding: 0.5rem 0.8rem;
+        border-radius: 3px;
+    }
+
+    .greedy-nav .visible-links a {
+        margin: 0 0.3rem;
+    }
+
+    .greedy-nav .hidden-links a {
+        margin: 0.3rem 0;
+    }
+
+    .greedy-nav a[aria-current="page"] {
+        font-weight: 700;
+        text-decoration: underline;
+        text-underline-offset: 4px;
+    }
+
+    .greedy-nav .visible-links a:hover,
+    .greedy-nav .hidden-links a:hover {
+        background: darken($accent-color, 8%);
+        color: #fff;
+    }
+
+    .greedy-nav a:focus-visible {
+        outline: 2px solid #fff;
+        outline-offset: 3px;
+    }
+
+    .greedy-nav .visible-links a:before { display: none; }
+    .lang-switch { border-color: #fff; background: transparent; }
+    .lang-opt, .lang-opt:visited, .lang-sep { color: #fff; }
+    .lang-opt.is-active { color: $accent-color; background: #fff; }
 }
 
 /* --------------------------------------------------------------------------

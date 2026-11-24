@@ -95,9 +95,9 @@
     max-width: 220px;
     aspect-ratio: 1 / 1;
     object-fit: cover;
-    border-radius: 0;
-    padding: 5px;
-    border: 1px solid $border-color;
+    border-radius: 50%;
+    padding: 0;
+    border: 0;
   }
 }
 
@@ -185,7 +185,7 @@
   list-style-type: none;
   border: 1px solid $border-color;
   border-radius: $border-radius;
-  background: #fff;
+  background: $background-color;
   z-index: -1;
   box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: default;
