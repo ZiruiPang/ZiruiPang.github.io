@@ -5,7 +5,7 @@
     <div class="cv-heading-row">
       <p class="cv-eyebrow">{% if cv_lang == 'zh' %}个人简历{% else %}Curriculum Vitae{% endif %}</p>
       {% if site.data.cv.pdf != empty %}
-      <a class="cv-download" href="{{ site.data.cv.pdf | relative_url }}" download><i class="fas fa-file-pdf" aria-hidden="true"></i> {% if cv_lang == 'zh' %}下载 PDF{% else %}Download PDF{% endif %}</a>
+      <a class="cv-download" href="{{ site.data.cv.pdf | relative_url }}" target="_blank" rel="noopener"><i class="fas fa-file-pdf" aria-hidden="true"></i> {% if cv_lang == 'zh' %}查看 PDF{% else %}View PDF{% endif %}</a>
       {% else %}
       <span class="cv-pdf-pending"><i class="far fa-file-pdf" aria-hidden="true"></i> {% if cv_lang == 'zh' %}PDF 即将提供{% else %}PDF coming soon{% endif %}</span>
       {% endif %}

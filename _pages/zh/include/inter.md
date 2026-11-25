@@ -11,6 +11,12 @@
         <td class="internship-period">2022.02 – 2022.04</td>
       </tr>
       <tr>
+        <th scope="row">IRisk Lab，伊利诺伊大学厄巴纳-香槟分校</th>
+        <td>研究助理</td>
+        <td>伊利诺伊州，美国</td>
+        <td class="internship-period">2024.08 – 2024.12</td>
+      </tr>
+      <tr>
         <th scope="row"><a href="https://www.hkust-gz.edu.cn/">香港科技大学（广州）</a></th>
         <td>研究助理</td>
         <td>广东，中国</td>

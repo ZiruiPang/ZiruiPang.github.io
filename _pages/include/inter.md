@@ -11,6 +11,12 @@
         <td class="internship-period">2022.02 – 2022.04</td>
       </tr>
       <tr>
+        <th scope="row">IRisk Lab, University of Illinois Urbana-Champaign</th>
+        <td>Research Assistant</td>
+        <td>Illinois, USA</td>
+        <td class="internship-period">2024.08 – 2024.12</td>
+      </tr>
+      <tr>
         <th scope="row"><a href="https://www.hkust-gz.edu.cn/">HKUST-GZ</a></th>
         <td>Research Assistant</td>
         <td>Guangdong, China</td>

@@ -28,6 +28,24 @@
         },
         {
           "date": {
+            "en": "2024.08 – 2024.12",
+            "zh": "2024.08 – 2024.12"
+          },
+          "title": {
+            "en": "IRisk Lab, University of Illinois Urbana-Champaign",
+            "zh": "IRisk Lab，伊利诺伊大学厄巴纳-香槟分校"
+          },
+          "detail": {
+            "en": "Research Assistant · Illinois, USA",
+            "zh": "研究助理 · 美国伊利诺伊州"
+          },
+          "extra": {
+            "en": "Focused on developing and maintaining a risk assessment model for a company in Xiamen, China, by predicting customer repayment dates.",
+            "zh": "通过预测客户还款日期，为中国厦门的一家企业开发并维护风险评估模型。"
+          }
+        },
+        {
+          "date": {
             "en": "2022.02 – 2022.04",
             "zh": "2022.02 – 2022.04"
           },
