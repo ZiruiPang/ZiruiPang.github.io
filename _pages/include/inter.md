@@ -11,7 +11,7 @@
         <td class="internship-period">2022.02 – 2022.04</td>
       </tr>
       <tr>
-        <th scope="row">IRisk Lab, University of Illinois Urbana-Champaign</th>
+        <th scope="row">Irisk Lab, UIUC</th>
         <td>Research Assistant</td>
         <td>Illinois, USA</td>
         <td class="internship-period">2024.08 – 2024.12</td>
