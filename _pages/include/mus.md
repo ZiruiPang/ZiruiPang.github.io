@@ -17,3 +17,7 @@ During my undergraduate studies, I maintained a long-term collaboration with the
     </tbody>
   </table>
 </div>
+
+<figure class="music-group-photo">
+  <img src="{{ '/images/cufe-choir-2020-12.jpg' | relative_url }}" alt="Choir of Central University of Finance and Economics group photo, December 2020" width="1440" height="1080" loading="lazy">
+</figure>

@@ -12,6 +12,10 @@ redirect_from:
 
 {% include_relative include/intro.md %}
 
+<div class="home-panel" markdown="1">
+
 {% include_relative include/news.md %}
+
+</div>
 
 {% include_relative include/selected.md %}

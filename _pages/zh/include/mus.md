@@ -17,3 +17,7 @@
     </tbody>
   </table>
 </div>
+
+<figure class="music-group-photo">
+  <img src="{{ '/images/cufe-choir-2020-12.jpg' | relative_url }}" alt="中央财经大学合唱团合照，2020年12月" width="1440" height="1080" loading="lazy">
+</figure>
