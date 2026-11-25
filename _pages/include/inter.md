@@ -17,9 +17,6 @@
         <td class="internship-period">2024.08 – 2024.12</td>
       </tr>
       <tr>
-        <td colspan="4">Developed and maintained a risk assessment model for a company in Xiamen, China, by predicting customer repayment dates.</td>
-      </tr>
-      <tr>
         <th scope="row"><a href="https://www.hkust-gz.edu.cn/">HKUST-GZ</a></th>
         <td>Research Assistant</td>
         <td>Guangdong, China</td>

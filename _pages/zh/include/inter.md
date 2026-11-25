@@ -17,9 +17,6 @@
         <td class="internship-period">2024.08 – 2024.12</td>
       </tr>
       <tr>
-        <td colspan="4">通过预测客户还款日期，为中国厦门的一家企业开发并维护风险评估模型。</td>
-      </tr>
-      <tr>
         <th scope="row"><a href="https://www.hkust-gz.edu.cn/">香港科技大学（广州）</a></th>
         <td>研究助理</td>
         <td>广东，中国</td>
