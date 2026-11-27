@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-22T07:51:12Z",
+  "updated": "2026-11-27T09:30:32Z",
   "scholar_id": "L9GRttsAAAAJ",
-  "citations": 40,
-  "citations_since_2021": 40,
+  "citations": 41,
+  "citations_since_2021": 41,
   "h_index": 4,
   "i10_index": 1,
   "year_graph": [
@@ -12,14 +12,14 @@
     },
     {
       "year": 2026,
-      "citations": 32
+      "citations": 33
     }
   ],
   "papers": [
     {
       "id": "L9GRttsAAAAJ:u5HHmVD_uO8C",
       "title": "GUARD: Generation-time LLM Unlearning via Adaptive Restriction and Detection",
-      "citations": 21,
+      "citations": 22,
       "year": 2025
     },
     {
